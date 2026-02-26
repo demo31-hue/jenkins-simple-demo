@@ -1,3 +1,3 @@
-#!/bim/bash
+#!/bin/bash
 echo "Hello for Github project"
-echo "CI/CO pipeline excuted successfully"
+echo "CI/CD pipeline executed successfully"
